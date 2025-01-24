@@ -97,3 +97,5 @@ Staff
 Contributors
 
 - See http://pokemonshowdown.com/credits
+
+I made this change to the README because of a school project (i used this repository as a example)
